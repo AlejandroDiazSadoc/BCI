@@ -1,0 +1,9 @@
+﻿  Interfaz.cpp
+c:\users\miste\desktop\app tfg\interfaz\interfaz.cpp(671): warning C4244: 'inicializando': conversión de 'NS_ALGO_EYE_BLINK_STRENGTH' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\interfaz.cpp(968): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+  Generando código
+  24 of 24 functions (100.0%) were compiled.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Interfaz.vcxproj -> C:\Users\miste\Desktop\APP TFG\x64\Release\Interfaz.exe

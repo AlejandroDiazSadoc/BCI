@@ -1,0 +1,85 @@
+﻿cl : Línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  vector.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\vector.c(102): warning C4244: '*=': conversión de 'float64' a 'float32'; posible pérdida de datos
+  tmat.c
+  s2_semi_mgau.c
+  ptm_mgau.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ptm_mgau.c(841): warning C4244: '=': conversión de 'int16' a 'uint8'; posible pérdida de datos
+  ps_mllr.c
+  ps_lattice.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(452): warning C4244: 'inicializando': conversión de 'float64' a 'float32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1248): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1291): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1325): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1328): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1378): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1400): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1437): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1507): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1514): warning C4244: 'función': conversión de 'float32' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1597): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1682): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1688): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1759): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+  pocketsphinx.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(321): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(341): warning C4244: 'función': conversión de 'int32' a 'float32'; posible pérdida de datos
+  phone_loop_search.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\phone_loop_search.c(230): warning C4244: '=': conversión de 'float64' a 'int32'; posible pérdida de datos
+  ngram_search_fwdtree.c
+  ngram_search_fwdflat.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search_fwdflat.c(709): warning C4244: '+=': conversión de 'float32' a 'int32'; posible pérdida de datos
+  ngram_search.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search.c(93): warning C4090: 'función': distintos calificadores 'const'
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search.c(136): warning C4244: '=': conversión de 'double' a 'float32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search.c(724): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search.c(1044): warning C4244: 'función': conversión de 'double' a 'float32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search.c(1189): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ngram_search.c(1245): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  ms_senone.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(118): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(224): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(225): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(240): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(314): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(325): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(371): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(372): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_senone.c(376): warning C4018: '<': no coinciden signed/unsigned
+  ms_mgau.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_mgau.c(133): warning C4018: '>': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_mgau.c(136): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_mgau.c(216): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\ms_mgau.c(224): warning C4018: '<': no coinciden signed/unsigned
+  ms_gauden.c
+  mdef.c
+  kws_search.c
+  kws_detections.c
+  hmm.c
+  fsg_search.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\fsg_search.c(214): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\fsg_search.c(223): warning C4244: '=': conversión de 'double' a 'float32'; posible pérdida de datos
+  fsg_lextree.c
+  Generando código...
+  Compilando...
+  fsg_history.c
+  dict2pid.c
+  dict.c
+  blkarray_list.c
+  bin_mdef.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\bin_mdef.c(148): warning C4244: '=': conversión de 'int16' a 'uint8'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\bin_mdef.c(149): warning C4244: '=': conversión de 'int16' a 'uint8'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\bin_mdef.c(150): warning C4244: '=': conversión de 'int16' a 'uint8'; posible pérdida de datos
+  allphone_search.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\allphone_search.c(545): warning C4244: '=': conversión de 'float32' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\allphone_search.c(604): warning C4244: '=': conversión de 'double' a 'float32'; posible pérdida de datos
+  acmod.c
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\acmod.c(188): warning C4244: '=': conversión de 'double' a 'mfcc_t'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\acmod.c(193): warning C4244: '=': conversión de 'double' a 'mfcc_t'; posible pérdida de datos
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\acmod.c(498): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\acmod.c(509): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\app tfg\interfaz\pocketsphinx\src\libpocketsphinx\acmod.c(560): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+acmod.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+     Creando biblioteca ..\..\bin\Debug\Win32/pocketsphinx.lib y objeto ..\..\bin\Debug\Win32/pocketsphinx.exp
+  pocketsphinx.vcxproj -> C:\Users\miste\Desktop\APP TFG\Interfaz\pocketsphinx\bin\Debug\Win32\pocketsphinx.dll

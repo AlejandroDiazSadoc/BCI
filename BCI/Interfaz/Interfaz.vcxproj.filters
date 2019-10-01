@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Interfaz.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Recursos.h" />
+    <ClInclude Include="Interfaz.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="thinkgear.lib" />
+    <Library Include="thinkgear64.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Interfaz.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Interfaz.ico" />
+  </ItemGroup>
+</Project>

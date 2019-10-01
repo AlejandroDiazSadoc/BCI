@@ -1,0 +1,144 @@
+﻿cl : Línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  strfuncs.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\strfuncs.c(110): warning C4267: 'inicializando': conversión de 'size_t' a 'long'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\strfuncs.c(193): warning C4244: 'return': conversión de '__int64' a 'int32'; posible pérdida de datos
+  slapack_lite.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1041): warning C4244: '=': conversión de 'doublereal' a 'real'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1046): warning C4244: '=': conversión de 'double' a 'real'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1074): warning C4244: '=': conversión de 'doublereal' a 'real'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1079): warning C4244: '=': conversión de 'double' a 'real'; posible pérdida de datos
+  slamch.c
+  sbthread.c
+  profile.c
+  priority_queue.c
+  pio.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\pio.c(332): warning C4267: '+=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\pio.c(335): warning C4267: '+=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\pio.c(439): warning C4267: '+=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+  mmio.c
+  matrix.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\matrix.c(71): warning C4244: '*=': conversión de 'float64' a 'float32'; posible pérdida de datos
+  logmath.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\logmath.c(296): warning C4267: '=': conversión de 'size_t' a 'long'; posible pérdida de datos
+  listelem_alloc.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(148): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(214): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(223): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(226): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(242): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+  heap.c
+  hash_table.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\hash_table.c(338): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\hash_table.c(374): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\hash_table.c(598): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\hash_table.c(609): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+  glist.c
+  genrand.c
+  filename.c
+  f2c_lite.c
+  err.c
+  dtoa.c
+  cmd_ln.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\cmd_ln.c(117): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\cmd_ln.c(122): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\cmd_ln.c(124): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\cmd_ln.c(151): warning C4090: 'función': distintos calificadores 'const'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\cmd_ln.c(332): warning C4090: 'función': distintos calificadores 'const'
+  Generando código...
+  Compilando...
+  ckd_alloc.c
+  case.c
+  blas_lite.c
+  bitvec.c
+  bitarr.c
+  bio.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\bio.c(354): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\bio.c(359): warning C4267: 'return': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\bio.c(377): warning C4267: 'función': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\bio.c(576): warning C4267: 'función': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\util\bio.c(588): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ngram_model_trie.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(154): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(324): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(328): warning C4267: '+=': conversión de 'size_t' a 'uint32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(389): warning C4267: '+=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+  ngram_model_set.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(84): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(84): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(89): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(112): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(112): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(663): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(663): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+  ngram_model.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model.c(348): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model.c(348): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model.c(638): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model.c(638): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model.c(641): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngram_model.c(980): warning C4244: '=': conversión de 'double' a 'float32'; posible pérdida de datos
+  lm_trie_quant.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie_quant.c(78): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie_quant.c(116): warning C4334: '<<': el resultado del desplazamiento de 32 bits se convirtió implícitamente en 64 bits (¿quería un desplazamiento de 64 bits?)
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie_quant.c(117): warning C4334: '<<': el resultado del desplazamiento de 32 bits se convirtió implícitamente en 64 bits (¿quería un desplazamiento de 64 bits?)
+  lm_trie.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie.c(212): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie.c(294): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie.c(299): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\lm_trie.c(523): warning C4267: 'inicializando': conversión de 'size_t' a 'uint32'; posible pérdida de datos
+  ngrams_raw.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(57): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(99): warning C4244: '=': conversión de 'double' a 'float32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(110): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(124): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  jsgf_scanner.c
+_jsgf_scanner.l(84): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  jsgf_parser.c
+  jsgf.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\jsgf.c(945): warning C4090: 'función': distintos calificadores 'const'
+  fsg_model.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\fsg_model.c(663): warning C4244: '=': conversión de 'double' a 'float32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\fsg_model.c(683): warning C4312: 'conversión de tipo': conversión de 'long' a 'void *' de mayor tamaño
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\fsg_model.c(683): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\fsg_model.c(710): warning C4311: 'conversión de tipo': truncamiento de puntero de 'void *' a 'long'
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\lm\fsg_model.c(866): warning C4244: 'función': conversión de 'float32' a 'int'; posible pérdida de datos
+  yin.c
+  fixlog.c
+  fe_warp_piecewise_linear.c
+  fe_warp_inverse_linear.c
+  Generando código...
+  Compilando...
+  fe_warp.c
+  fe_warp_affine.c
+  fe_sigproc.c
+  fe_prespch_buf.c
+  fe_noise.c
+  fe_interface.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(418): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(458): warning C4267: '=': conversión de 'size_t' a 'int32'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(473): warning C4267: '+=': conversión de 'size_t' a 'int16'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(525): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(532): warning C4267: 'función': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(542): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(548): warning C4244: '=': conversión de '__int64' a 'int16'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(565): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\fe\fe_interface.c(573): warning C4244: '-=': conversión de '__int64' a 'int'; posible pérdida de datos
+  lda.c
+  feat.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\feat\feat.c(370): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\feat\feat.c(404): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\feat\feat.c(900): warning C4018: '<': no coinciden signed/unsigned
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxbase\feat\feat.c(903): warning C4018: '<': no coinciden signed/unsigned
+  cmn_prior.c
+  cmn.c
+  agc.c
+  ad_win32.c
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxad\ad_win32.c(222): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxad\ad_win32.c(222): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxad\ad_win32.c(294): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+  c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxad\ad_win32.c(294): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxad\ad_win32.c(307): warning C4477: 'fprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 2 tiene el tipo 'size_t'
+  c:\users\miste\desktop\interfaz\interfaz\sphinxbase\src\libsphinxad\ad_win32.c(307): note: considere el uso de ' %zd' en la cadena de formato
+  Generando código...
+     Creando biblioteca ../../bin/Debug/x64/sphinxbase.lib y objeto ../../bin/Debug/x64/sphinxbase.exp
+  sphinxbase.vcxproj -> C:\Users\miste\Desktop\Interfaz\Interfaz\sphinxbase\bin\Debug\x64\sphinxbase.dll

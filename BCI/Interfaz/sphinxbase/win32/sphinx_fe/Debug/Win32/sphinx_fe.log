@@ -1,0 +1,4 @@
+﻿cl : Línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  sphinx_fe.c
+c:\users\miste\desktop\word spotting\sphinxbase\src\sphinx_fe\sphinx_fe.c(371): warning C4018: '<': no coinciden signed/unsigned
+  sphinx_fe.vcxproj -> C:\Users\miste\Desktop\Word Spotting\sphinxbase\\bin\Debug\Win32\sphinx_fe.exe

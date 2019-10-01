@@ -1,0 +1,4 @@
+﻿cl : Línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  continuous.c
+c:\users\miste\desktop\word spotting\pocketsphinx\src\programs\continuous.c(111): warning C4244: '=': conversión de 'float64' a 'float'; posible pérdida de datos
+  pocketsphinx_continuous.vcxproj -> C:\Users\miste\Desktop\Word Spotting\pocketsphinx\\bin\Debug\Win32\pocketsphinx_continuous.exe

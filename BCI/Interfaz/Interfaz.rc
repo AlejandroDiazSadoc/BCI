@@ -1,0 +1,61 @@
+#include <windows.h>
+#include <commctrl.h>
+#include <richedit.h>
+#include "Recursos.h"
+
+
+
+IDC_INTERFAZ MENU
+{
+    POPUP "&Fichero"
+    {
+        MENUITEM "Salir", IDM_SALIDA
+    }
+    POPUP "&Ayuda"
+    {
+        MENUITEM "&Sobre la aplicación...", IDM_INFO
+    }
+}
+
+
+
+
+
+IDD_INFOVENTANA DIALOGEX 0, 0, 190, 82
+STYLE DS_MODALFRAME | DS_SHELLFONT | WS_CAPTION | WS_POPUP | WS_SYSMENU
+CAPTION "ExoEsqueleto"
+FONT 8, "MS Shell Dlg", 0, 0, 1
+{
+    ICON            128, IDC_STATIC, 14, 14, 21, 20, SS_ICON, WS_EX_LEFT
+    LTEXT           "Exoesqueleto controlado mediante NeuroSky Mobile y voz.", IDC_STATIC,20, 14, 114, 18, SS_LEFT | SS_NOPREFIX, WS_EX_LEFT
+    LTEXT           " Realizado por Alejandro Díaz Sadoc", IDC_STATIC, 20, 46, 118, 9, SS_LEFT, WS_EX_LEFT
+    DEFPUSHBUTTON   "OK", IDOK, 40, 61, 50, 14, WS_GROUP, WS_EX_LEFT
+   
+}
+
+
+
+STRINGTABLE
+{
+    IDC_INTERFAZ             "INTERFAZ"
+    IDS_APP_TITULO                "Movimiento Neuronal Exoesqueleto"
+}
+
+
+
+
+IDC_INTERFAZ ACCELERATORS
+{
+    "?",            IDM_INFO, ASCII, ALT
+    "/",            IDM_INFO, ASCII, ALT
+}
+
+
+
+
+
+IDI_INTERFAZ  ICON           "Interfaz.ico"
+
+
+
+IDI_ICONO_PEQUENO          ICON           "Interfaz.ico"

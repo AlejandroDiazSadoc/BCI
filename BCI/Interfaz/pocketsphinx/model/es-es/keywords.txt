@@ -1,0 +1,17 @@
+modo abre cierra/1e-100/
+modo victoria/1e-16/
+modo senalar/1e-1/
+dejar de senalar/1e-1/
+abre mano/1e-5/
+cierra mano/1e-16/
+senalar mano/1e-5/
+gesto victoria/1e-100/
+finalizar gesto/1e-54/
+iniciar/1e-15/
+pausa/1e-15/
+detener/1e-15/
+cierra aplicacion/1e-95/
+tres dedos/1e-5/
+cuatro dedos/1e-10/
+modo tres/1e-15/
+modo cuatro/1e-15/
